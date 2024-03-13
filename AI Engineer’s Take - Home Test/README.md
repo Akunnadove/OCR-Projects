@@ -1,10 +1,10 @@
-# RECEIPT DATA EXTRACTION
+# Receipt Data Extraction
 This project has been executed using OCR and Python programming language.
 
-### NOTE
+#### NOTE
 THIS WORK IS STRICTLY MY SUBMISSION AND WASN'T COPIED FROM ANYWHERE.USE WITH CARE.
 
-### Programming Language, Tool, and Library Used 
+#### Programming Language, Tool, and Library Used 
 * Python 
 * Tesseract, an open-source OCR engine
 * Pytesseract - Python library
@@ -13,7 +13,7 @@ THIS WORK IS STRICTLY MY SUBMISSION AND WASN'T COPIED FROM ANYWHERE.USE WITH CAR
 Make sure the above are installed and set up before beginning the project. 
 
 * Download latest version of Tesseract via https://github.com/UB-Mannheim/tesseract/wiki
-* pip install pytesseract
+* "pip install pytesseract"
 
 ## Task 1:
 Mr Lawrence just found 3 images of receipts containing a number of goods and services that his
