@@ -1,8 +1,7 @@
 # Receipt Data Extraction
 This project has been executed using OCR and Python programming language.
 
-#### NOTE
-THIS WORK IS STRICTLY MY SUBMISSION AND WASN'T COPIED FROM ANYWHERE.USE WITH CARE.
+#### NOTE: THIS WORK IS STRICTLY MY SUBMISSION AND WASN'T COPIED FROM ANYWHERE.USE WITH CARE.
 
 #### Programming Language, Tool, and Library Used 
 * Python 
