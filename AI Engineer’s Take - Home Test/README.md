@@ -34,3 +34,7 @@ Save the extracted texts/words and their corresponding coordinates (ymax or ymin
 DataFrame. Export it as a csv file.
 
 Refer to the PDF File for more instruction on Task 2
+
+### REFERENCES
+* NeuralNine: https://www.youtube.com/watch?v=PY_N1XdFp4w&t=1375s
+* Python Tutorials for Digital Humanities https://www.youtube.com/watch?v=DXYPXZH2eGE&list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i&index=6
