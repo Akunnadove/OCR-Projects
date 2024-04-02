@@ -3,6 +3,9 @@
 ### The Objective
 Our aim in this project is to extract the text of the Date issued, Items, and Total amount due respectively from the invoices displayed below.
 
+![Invoice 2](https://github.com/Akunnadove/OCR-Projects/assets/66309302/d82bc63c-46e7-4a67-a62d-613ee1def892)
+![Invoice 3](https://github.com/Akunnadove/OCR-Projects/assets/66309302/09f5ee44-caea-47e6-933c-df54d59c0f33)
+![Invoice 1](https://github.com/Akunnadove/OCR-Projects/assets/66309302/a0ae5753-a798-4c0d-8b7f-dc1631828f6d)
 
 ### Required Installations
 For this Code and Application to run successfully, the following software programs and libraries should be correctly installed.
@@ -13,8 +16,9 @@ For this Code and Application to run successfully, the following software progra
 * Pytesseract
 
 ### Streamlit Application
-Here's a video of the Streamlit application developed for this project. Note how it works and what to expect when you run yours. 
-https://vimeo.com/929826594?share=copy 
+Here is an image of the Streamlit application developed for this project. 
+![Application](https://github.com/Akunnadove/OCR-Projects/assets/66309302/cf09f94c-a4be-4d58-a92b-9965f0fbfb43)
+
 
 ### Execute and run the Python script
 The streamlit application can either be run using any of the two below methods; 
