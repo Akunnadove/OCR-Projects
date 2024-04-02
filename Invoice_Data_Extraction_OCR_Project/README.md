@@ -1,11 +1,7 @@
 # Invoice Data Extraction Streamlit Application Using OCR
 
 ### The Objective
-Our aim in this project is to extract the text of the Date issued, Items, and Total amount due respectively from the invoices displayed below.
-
-![Invoice 2](https://github.com/Akunnadove/OCR-Projects/assets/66309302/d82bc63c-46e7-4a67-a62d-613ee1def892)
-![Invoice 3](https://github.com/Akunnadove/OCR-Projects/assets/66309302/09f5ee44-caea-47e6-933c-df54d59c0f33)
-![Invoice 1](https://github.com/Akunnadove/OCR-Projects/assets/66309302/a0ae5753-a798-4c0d-8b7f-dc1631828f6d)
+Our aim in this project is to extract the text of the Date issued, Items, and Total amount due respectively from the invoices.
 
 ### Required Installations
 For this Code and Application to run successfully, the following software programs and libraries should be correctly installed.
